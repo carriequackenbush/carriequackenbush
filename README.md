@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on: my Github.
+- 🌱 I’m currently learning NetSec, again.
+- 💬 Ask me about Genealogy.
+- 📫 How to reach me: ...
+- 😄 Pronouns: Yes.
+- ⚡ Fun fact: I am a nomad.
