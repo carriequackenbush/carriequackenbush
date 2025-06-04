@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Genealogy.
 - 📫 How to reach me: ...
 - 😄 Pronouns: Yes.
-- ⚡ Fun fact: I am a nomad.
+- ⚡ Fun fact: I am a digital nomad.
